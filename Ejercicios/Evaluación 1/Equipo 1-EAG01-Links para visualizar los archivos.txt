@@ -1,0 +1,4 @@
+Análisis de 4 meses:
+https://github.com/EmmanuelGalvan/EstadisticaAplicada/blob/main/Ejercicios/Evaluaci%C3%B3n%201/Proyecto4M.ipynb
+Análisis de 3 años:
+https://github.com/EmmanuelGalvan/EstadisticaAplicada/blob/main/Ejercicios/Evaluaci%C3%B3n%201/Proyecto3Y.ipynb
